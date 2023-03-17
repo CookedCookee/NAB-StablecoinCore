@@ -5,7 +5,10 @@ National Australia Bank's deployed StablecoinCoreV1 implementation.
 Ethereum Mainnet
 - Global Control: [0x7d1289806aa974c6b626fa17d30676ddf7ed31cb](https://etherscan.io/address/0x7d1289806aa974c6b626fa17d30676ddf7ed31cb#code)
 - StablecoinCoreV1: [0x14c46a24045EdCe3B3018902C9590CD5db8e1fE2](https://etherscan.io/address/0x14c46a24045edce3b3018902c9590cd5db8e1fe2#code)
-- AUDN: [0xC035386af88e78B0E1C8E248Ecf4142AE3e6956f](https://etherscan.io/address/0xc035386af88e78b0e1c8e248ecf4142ae3e6956f#code)
+- Proxy: [0xC035386af88e78B0E1C8E248Ecf4142AE3e6956f](https://etherscan.io/address/0xc035386af88e78b0e1c8e248ecf4142ae3e6956f#code)
+
+Currency Instances
+- AUDN: [0x14c46a24045EdCe3B3018902C9590CD5db8e1fE2](https://etherscan.io/address/0x14c46a24045edce3b3018902c9590cd5db8e1fe2#code)
 - EURN: [0x550A31868a03d126FEe937d33281473B4147A22A](https://etherscan.io/address/0x550a31868a03d126fee937d33281473b4147a22a#code)
 - GPNN: [0x01168290573d83529864Cf017141CF4fD4C060d3](https://etherscan.io/address/0x01168290573d83529864cf017141cf4fd4c060d3#code)
 - JPYN: [0x87A8a720106C0EFA6DF528b0762fc9Ab8AF9bCf3](https://etherscan.io/address/0x87a8a720106c0efa6df528b0762fc9ab8af9bcf3#code)
