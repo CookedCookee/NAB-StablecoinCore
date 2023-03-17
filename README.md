@@ -5,7 +5,7 @@ National Australia Bank's deployed StablecoinCoreV1 implementation.
 Ethereum Mainnet
 - Global Control: [0x7d1289806aa974c6b626fa17d30676ddf7ed31cb](https://etherscan.io/address/0x7d1289806aa974c6b626fa17d30676ddf7ed31cb#code)
 - StablecoinCoreV1: [0x14c46a24045EdCe3B3018902C9590CD5db8e1fE2](https://etherscan.io/address/0x14c46a24045edce3b3018902c9590cd5db8e1fe2#code)
-- Proxy: [0xC035386af88e78B0E1C8E248Ecf4142AE3e6956f](https://etherscan.io/address/0xc035386af88e78b0e1c8e248ecf4142ae3e6956f#code)
+- AUDNProxy: [0xC035386af88e78B0E1C8E248Ecf4142AE3e6956f](https://etherscan.io/address/0xc035386af88e78b0e1c8e248ecf4142ae3e6956f#code)
 
 Currency Instances
 - AUDN: [0x14c46a24045EdCe3B3018902C9590CD5db8e1fE2](https://etherscan.io/address/0x14c46a24045edce3b3018902c9590cd5db8e1fe2#code)
